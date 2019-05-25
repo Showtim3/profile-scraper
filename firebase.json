@@ -1,0 +1,189 @@
+{
+  "rishabh": {
+    "employment": [
+      [
+        {
+          "details": [
+            {
+              "detail": "Yahoo description 1"
+            }
+          ],
+          "endYear": 2010,
+          "organisationName": "Yahoo",
+          "profile": "Designer",
+          "startYear": 2005,
+          "technologies": [
+            "Javascrip",
+            " Bootstrap",
+            " Python",
+            "Django",
+            "Rust"
+          ]
+        }
+      ],
+      [
+        {
+          "details": [
+            {
+              "detail": "Dumb description"
+            }
+          ],
+          "endYear": 1999,
+          "organisationName": "Google",
+          "profile": "Engineer",
+          "startYear": 1994,
+          "technologies": [
+            "HTML",
+            "css ",
+            "javascript",
+            "SCSS",
+            "typescript",
+            "Angular",
+            "React",
+            "Python"
+          ]
+        }
+      ]
+    ],
+    "experience": {
+      "exp": [
+        {
+          "expDescription": "Hello there :D ",
+          "expLink": "www.bitcs.in",
+          "expTitle": "Bitcs"
+        },
+        {
+          "expDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+          "expLink": "www.codingblocks.com",
+          "expTitle": "Coding Blocks"
+        }
+      ]
+    },
+    "expertise": "Engineer",
+    "imageLink": "link",
+    "introduction": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur,",
+    "location": "New Delhi",
+    "memberSince": "member",
+    "name": "Rishabh ",
+    "projects": {
+      "projects": [
+        {
+          "description": "Android App ",
+          "link": "www.andriodApp.com",
+          "projectName": "Andriod",
+          "techUsed": "Javascript,bootstap,nodejs,Java"
+        },
+        {
+          "description": "Shoppify App",
+          "link": "www.shoppify.com",
+          "projectName": "Shoppify",
+          "techUsed": "Javascript,bootstap,nodejs,Java,Node"
+        },
+        {
+          "description": "Ubuntu task manager",
+          "link": "www.ubuntutaskmanager.com",
+          "projectName": "Task Manager",
+          "techUsed": "Javascript,bootstap,nodejs,Java"
+        }
+      ]
+    },
+    "skills": [
+      {
+        "category": "language",
+        "experience": "3",
+        "level": "",
+        "name": "A-0 System",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "3",
+        "level": "",
+        "name": "A# .NET",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "3",
+        "level": "",
+        "name": "ABSET",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "2",
+        "level": "",
+        "name": "ABSYS",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "1",
+        "level": "",
+        "name": "Accent",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "7",
+        "level": "",
+        "name": "Alef",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "4",
+        "level": "",
+        "name": "Python",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "6",
+        "level": "",
+        "name": "Java",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "3",
+        "level": "",
+        "name": "Solidity",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "3",
+        "level": "",
+        "name": "Snowball",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "7",
+        "level": "",
+        "name": "Averest",
+        "projects": "",
+        "showInProfile": true
+      },
+      {
+        "category": "language",
+        "experience": "8",
+        "level": "",
+        "name": "Adenine",
+        "projects": "",
+        "showInProfile": true
+      }
+    ]
+  }
+}
