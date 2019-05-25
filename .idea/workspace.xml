@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd21e866-d2d3-429b-825e-992acfe2a0ec" name="Default Changelist" comment="" />
+    <list default="true" id="cd21e866-d2d3-429b-825e-992acfe2a0ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.js" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,10 +22,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scraper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="759">
+              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -65,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28923">
-              <caret column="88086" selection-start-column="88086" selection-end-column="88086" />
+            <state relative-caret-position="20026">
+              <caret column="61073" lean-forward="true" selection-start-column="61073" selection-end-column="61073" />
             </state>
           </provider>
         </entry>
@@ -82,15 +93,22 @@
       <find>name</find>
       <find>expertise</find>
       <find>Christopher</find>
+      <find>url.s</find>
+      <find>console.log</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/firebase.json" />
         <option value="$PROJECT_DIR$/../../codersera-1554034473525-export.json" />
-        <option value="$PROJECT_DIR$/output.json" />
         <option value="$PROJECT_DIR$/../../coderseraScraped.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/scraper2.js" />
+        <option value="$PROJECT_DIR$/output.json" />
         <option value="$PROJECT_DIR$/scraper.js" />
       </list>
     </option>
@@ -101,12 +119,12 @@
     <option name="width" value="1433" />
     <option name="height" value="824" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +136,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,12 +191,13 @@
       <workItem from="1558605793619" duration="2571000" />
       <workItem from="1558608375219" duration="7888000" />
       <workItem from="1558705035622" duration="972000" />
-      <workItem from="1558772692963" duration="344000" />
+      <workItem from="1558772692963" duration="6796000" />
+      <workItem from="1558810439939" duration="3012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32498000" />
+    <option name="totallyTimeSpent" value="41962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,20 +210,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3384291" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36685082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32779622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.27464008" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -235,6 +256,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scraper2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!block;n#getProfiles#0" />
+            <element signature="n#!!block;n#writeDataToJson#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../codersera-1554034473525-export.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="391" column="13" selection-start-line="391" selection-start-column="13" selection-end-line="391" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!block;n#scraped#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#alpha#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#dummyname#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#frank#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#john#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#richard#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#rishabh#0;n#!!block;n#users#0;n#!!top" />
+            <element signature="n#!!block;n#rohan saroha#0;n#!!block;n#users#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../scraped.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -256,32 +308,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28923">
-          <caret column="88086" selection-start-column="88086" selection-end-column="88086" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../codersera-1554034473525-export.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="391" column="13" selection-start-line="391" selection-start-column="13" selection-end-line="391" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!block;n#scraped#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#alpha#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#dummyname#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#frank#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#john#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#richard#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#rishabh#0;n#!!block;n#users#0;n#!!top" />
-            <element signature="n#!!block;n#rohan saroha#0;n#!!block;n#users#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="20026">
+          <caret column="61073" lean-forward="true" selection-start-column="61073" selection-end-column="61073" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scraper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="759">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
